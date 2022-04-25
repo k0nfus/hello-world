@@ -14,5 +14,5 @@ vertical-align: middle;
 height: 100%;
 justify-content: center;
 }
-.textbox { background-color: white;font-size: 3rem;transform: rotate(-20deg); padding: 10px;margin-bottom: 200px;}
+.textbox { background-color: white;font-size: 3rem;transform: rotate(-20deg); padding: 10px;margin-bottom: 200px; border-radius: 20px;}
 a {justify-content: flex-end;}
